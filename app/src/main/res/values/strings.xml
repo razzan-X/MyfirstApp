@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My first App</string>
+    <string name="name">Name</string>
+    <string name="button">SEND</string>
+    <string name="textview">TextView</string>
+    <string name="button1">Navigation</string>
+    <string name="button3">Send</string>
+    <string name="myName">Enter Message</string>
+    <string name="enter_word">Enter WOrd</string>
+    <string name="textview2">TextView</string>
+    <string name="textview6">Typing.....</string>
+    <string name="input_message">Input Message</string>
+    <string name="text_ken">my name kenneth</string>
+</resources>
